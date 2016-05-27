@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
+
+
+
+
+
+
+
+#header4-6 H1 {
+  color: #000000;
+  font-family: 'Lora', serif;
+}
+#header4-6 P {
+  color: #000000;
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+#content5-4 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+  font-family: 'Lora', serif;
+}
+#content5-4 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4 .mbr-article {
+  color: #fff;
+}
+#content5-4 .mbr-article P {
+  color: #000000;
+  font-family: 'Lora', serif;
+}
+#content4-12 .mbr-section__col .mbr-header__text {
+  font-family: 'Lora', serif;
+}
+#content4-12 P {
+  font-family: 'Lora', serif;
+  color: #000000;
+}
+#slider2-8 H1 {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+}
+#slider2-13 H1 {
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+#ext_menu-7 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-7.mbr-navbar--stuck .mbr-navbar__section {
+  background: #1abc9c;
+}
+#ext_menu-7 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#form1-8 .mbr-header__text {
+  font-family: 'Lora', serif;
+}
